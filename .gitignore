@@ -1,0 +1,8 @@
+#system files
+.DS_Store
+
+#python executables
+*.pyc
+
+#ipython checkpoints
+.ipynb_checkpoints/
