@@ -9,3 +9,9 @@
 
 #external data
 data/
+
+#pdf files
+*.pdf
+
+#markdown files
+*.md
